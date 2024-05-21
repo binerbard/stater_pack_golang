@@ -120,5 +120,5 @@ func main() {
 
 // Note :
 // If you understand this concept 
-// Maybe you can implement this case to create file template like 
+// Maybe you can implement this case and combile with create file to generate file template like 
 // file.go, file.js or other
